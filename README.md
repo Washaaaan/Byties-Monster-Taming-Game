@@ -1,2 +1,2 @@
 # Byties-Monster-Taming-Game
-This repository 
+I will be using this repository to planify my game: Byties.
